@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4e31297-fb8b-448e-a6be-f48a05c2a0a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n4csxknpcdkV3uHC39x5KOvkmu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Desktop\Estudar\Python\Udemy\Capitulos\Secao_13\Exercicios_13" />
+      <recent name="C:\Users\Usuario\Desktop\Estudar\Python\Udemy\Capitulos\Secao_18" />
+      <recent name="C:\Users\Usuario\Desktop\Estudar\Python\Udemy\Capitulos\Secao_12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.alarme">
+    <configuration name="agenda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulos/Secao_13/Exercicios_13/exercicio_25_agenda_turbinada" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulos/Secao_13/Exercicios_13/exercicio_25_agenda_turbinada/agenda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alarme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alarme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicico_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulos/Secao_13/Exercicios_13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulos/Secao_13/Exercicios_13/exercicico_15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicio_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulos/Secao_13/Exercicios_13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulos/Secao_13/Exercicios_13/exercicio_08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicio_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulos/Secao_13/Exercicios_13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulos/Secao_13/Exercicios_13/exercicio_12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.alarme" />
+        <item itemvalue="Python.agenda" />
+        <item itemvalue="Python.exercicico_15" />
+        <item itemvalue="Python.exercicio_12" />
+        <item itemvalue="Python.exercicio_08" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4e31297-fb8b-448e-a6be-f48a05c2a0a9" name="Default Changelist" comment="" />
+      <created>1610653013801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610653013801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615313543850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615313543850" />
+    <state width="710" height="201" key="GridCell.Tab.0.bottom" timestamp="1615418160646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="710" height="201" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615418160646" />
+    <state width="1345" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615068207769" />
+    <state width="710" height="201" key="GridCell.Tab.0.center" timestamp="1615418160646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="710" height="201" key="GridCell.Tab.0.center/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615418160646" />
+    <state width="1345" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615068207769" />
+    <state width="710" height="201" key="GridCell.Tab.0.left" timestamp="1615418160646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="710" height="201" key="GridCell.Tab.0.left/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615418160646" />
+    <state width="1345" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615068207769" />
+    <state width="710" height="201" key="GridCell.Tab.0.right" timestamp="1615418160646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="710" height="201" key="GridCell.Tab.0.right/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615418160646" />
+    <state width="1345" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615068207769" />
+    <state width="1345" height="214" key="GridCell.Tab.1.bottom" timestamp="1615320347615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615320347615" />
+    <state width="1345" height="214" key="GridCell.Tab.1.center" timestamp="1615320347615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.center/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615320347615" />
+    <state width="1345" height="214" key="GridCell.Tab.1.left" timestamp="1615320347615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.left/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615320347615" />
+    <state width="1345" height="214" key="GridCell.Tab.1.right" timestamp="1615320347615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.right/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615320347615" />
+    <state x="-1856" y="303" width="1155" height="617" key="dock-window-1" timestamp="1615321874519">
+      <screen x="-1920" y="52" width="1920" height="1040" />
+    </state>
+    <state x="-1856" y="303" width="1155" height="617" key="dock-window-1/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615321874519" />
+    <state x="226" y="-21" width="767" height="823" maximized="true" key="dock-window-2" timestamp="1615321874519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="226" y="-21" width="767" height="823" maximized="true" key="dock-window-2/0.0.1366.728/-1920.52.1920.1040@0.0.1366.728" timestamp="1615321874519" />
+  </component>
+</project>
